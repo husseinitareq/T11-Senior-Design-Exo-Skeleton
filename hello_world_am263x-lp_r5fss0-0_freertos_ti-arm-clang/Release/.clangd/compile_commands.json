@@ -1,0 +1,12 @@
+[
+   {
+      "directory" : "C:/Users/Admin/Desktop/SD1/One joint CODE COMPOSER COOk/hello_world_am263x-lp_r5fss0-0_freertos_ti-arm-clang/Release",
+      "command"   : "clang++ -I\"C:/ti/ccs2002/ccs/tools/compiler/ti-cgt-armllvm_4.0.1.LTS/include/c\" -I\"C:/ti/mcu_plus_sdk_am263x_10_01_00_31/source\" -I\"C:/ti/mcu_plus_sdk_am263x_10_01_00_31/source/kernel/freertos/FreeRTOS-Kernel/include\" -I\"C:/ti/mcu_plus_sdk_am263x_10_01_00_31/source/kernel/freertos/portable/TI_ARM_CLANG/ARM_CR5F\" -I\"C:/ti/mcu_plus_sdk_am263x_10_01_00_31/source/kernel/freertos/config/am263x/r5f\" -DSOC_AM263X -isystem\"C:/ti/ccs2002/ccs/tools/compiler/ti-cgt-armllvm_4.0.1.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"C:/ti/ccs2002/ccs/tools/compiler/ti-cgt-armllvm_4.0.1.LTS/include/c++/v1\" -isystem\"C:/ti/ccs2002/ccs/tools/compiler/ti-cgt-armllvm_4.0.1.LTS/lib/clang/18/include\" -isystem\"C:/ti/ccs2002/ccs/tools/compiler/ti-cgt-armllvm_4.0.1.LTS/include/c\" -I\"C:/Users/Admin/Desktop/SD1/One joint CODE COMPOSER COOk/hello_world_am263x-lp_r5fss0-0_freertos_ti-arm-clang/Release/syscfg\"",
+      "file"      : "C:/Users/Admin/Desktop/SD1/One joint CODE COMPOSER COOk/hello_world_am263x-lp_r5fss0-0_freertos_ti-arm-clang/hello_world.c"
+   },
+   {
+      "directory" : "C:/Users/Admin/Desktop/SD1/One joint CODE COMPOSER COOk/hello_world_am263x-lp_r5fss0-0_freertos_ti-arm-clang/Release",
+      "command"   : "clang++ -I\"C:/ti/ccs2002/ccs/tools/compiler/ti-cgt-armllvm_4.0.1.LTS/include/c\" -I\"C:/ti/mcu_plus_sdk_am263x_10_01_00_31/source\" -I\"C:/ti/mcu_plus_sdk_am263x_10_01_00_31/source/kernel/freertos/FreeRTOS-Kernel/include\" -I\"C:/ti/mcu_plus_sdk_am263x_10_01_00_31/source/kernel/freertos/portable/TI_ARM_CLANG/ARM_CR5F\" -I\"C:/ti/mcu_plus_sdk_am263x_10_01_00_31/source/kernel/freertos/config/am263x/r5f\" -DSOC_AM263X -isystem\"C:/ti/ccs2002/ccs/tools/compiler/ti-cgt-armllvm_4.0.1.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"C:/ti/ccs2002/ccs/tools/compiler/ti-cgt-armllvm_4.0.1.LTS/include/c++/v1\" -isystem\"C:/ti/ccs2002/ccs/tools/compiler/ti-cgt-armllvm_4.0.1.LTS/lib/clang/18/include\" -isystem\"C:/ti/ccs2002/ccs/tools/compiler/ti-cgt-armllvm_4.0.1.LTS/include/c\" -I\"C:/Users/Admin/Desktop/SD1/One joint CODE COMPOSER COOk/hello_world_am263x-lp_r5fss0-0_freertos_ti-arm-clang/Release/syscfg\"",
+      "file"      : "C:/Users/Admin/Desktop/SD1/One joint CODE COMPOSER COOk/hello_world_am263x-lp_r5fss0-0_freertos_ti-arm-clang/main.c"
+   }
+]
