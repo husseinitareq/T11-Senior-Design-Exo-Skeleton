@@ -1,0 +1,6 @@
+#ifndef ERROR_HANDLER_H
+#define ERROR_HANDLER_H
+//THIS ERROR HANDLE NEEDS TO COMMUNICATE WITH THE CAN TASK WHICH IT DOESNT
+void Task_ErrorHandler(void *pvParameters);
+
+#endif // ERROR_HANDLER_H
